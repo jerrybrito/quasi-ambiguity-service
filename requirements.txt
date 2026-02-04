@@ -1,0 +1,2 @@
+# Requires: virtual-paradox
+# (Not available on PyPI)
